@@ -103,6 +103,7 @@ module.exports = {
     ],
     'react/react-in-jsx-scope': 'off',
     'react/function-component-definition': 'off',
+    'react/require-default-props': 'off',
   },
   overrides: [
     {
