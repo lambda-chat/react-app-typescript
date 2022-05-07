@@ -5,10 +5,10 @@ A template repository.
 
 ## How to use
 
-With Github CLI:
+With Github CLI example
 
 ```sh
-gh repo create --template lambda-chat/react-app-typescript your-new-repo
+gh repo create --public your-repo -p lambda-chat/react-app-typescript
 ```
 
 ## Initialization
