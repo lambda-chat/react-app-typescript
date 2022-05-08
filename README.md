@@ -2,7 +2,6 @@
 
 A template repository.
 
-
 ## How to use
 
 With Github CLI example
